@@ -13,7 +13,7 @@ A dedicated **Rocknix** app that captures still screenshots or creates recording
 
 1. Choose your console:
    - `rg34xx` (640w)
-   - `rg10x` (720w)
+   - `rgb10x` (720w)
 
 2. Copy the entire `capture` directory to the `roms/ports/` folder.
 
