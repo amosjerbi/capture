@@ -1,19 +1,24 @@
 # Capture
 
-A dedicated Rocknix app that capture still screenshots or create a recording in an animated PNG!
+A dedicated **Rocknix** app that captures still screenshots or creates recordings as animated PNGs.
 
-### Installation
-1. Choose your console rg34xx(640w) or rg10x(720w)
-2. Copy the entire `capture` directory to roms/ports/ folder:
-3. /roms/ports/
-    ├─ capture/
-    │   ├─ captureui
-    │   ├─ conf
-    │   ├─ libs
-    └─ capture.sh
-4. Go to Tools and run once Portmaster
-5. Press Start > Game Settings > Update Gamelists > Yes
-6. Go to Ports > Press Capture
+## Installation
+
+1. Choose your console:
+   - `rg34xx` (640w)
+   - `rg10x` (720w)
+
+2. Copy the entire `capture` directory to the `roms/ports/` folder.
+
+3. Final directory structure:
+   ```text
+   /roms/ports/
+   ├─ capture/
+   │  ├─ captureui
+   │  ├─ conf
+   │  ├─ libs
+   └─ capture.sh
+
 
 ## How to Use
 
