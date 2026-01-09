@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/demo.png" alt="demo" width="640"/>
+</p>
+
 # Capture
 
 A dedicated **Rocknix** app that captures still screenshots or creates recordings as animated PNGs.
@@ -28,7 +32,7 @@ A dedicated **Rocknix** app that captures still screenshots or creates recording
    - **Recording Duration**
      - 5s (24 frames)
      - 10s (48 frames)
-     - 30s (72 frames)  
+     - 30s (127 frames)  
      Saved to `roms/recordings`
    - **Disable Hotkey**  
      Closes the daemon running in the background
