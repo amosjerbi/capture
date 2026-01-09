@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "name": "capture.zip",
+    "items": [
+        "capture.sh"
+    ],
+    "items_opt": [
+        "capture/"
+    ],
+    "attr": {
+        "title": "Screen Capture",
+        "desc": "Screenshot and video recording tool for ROCKNIX",
+        "porter": "amosjerbi",
+        "inst": "Ready to use - no additional files needed",
+        "genres": ["utility", "tool"],
+        "rtr": false,
+        "runtime": null,
+        "reqs": ["Python 3"]
+    }
+}
