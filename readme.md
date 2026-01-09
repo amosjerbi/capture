@@ -23,12 +23,26 @@ A dedicated **Rocknix** app that captures still screenshots or creates recording
 ## How to Use
 
 1. Select an option:
-   ├─ Still screenshot (will be saved to roms/screenshots)
-   ├─ Select Recording duration 5s (24 frames) /10s (48 frames) / 30s (72 frames) (Saved to roms/recordings)
-   ├─ Disable Hotkey (will close the daemon running in background)
-3. Press Start to exit
-4. While Daemon is running in Background Press Select + R1 (rg34xx) OR Right Thumber plus button (rgb10x)
-5. After all shots were taken auto it'll keep the folder full of screenshots and Animated PNG! 
+   - **Still Screenshot**  
+     Saved to `roms/screenshots`
+   - **Recording Duration**
+     - 5s (24 frames)
+     - 10s (48 frames)
+     - 30s (72 frames)  
+     Saved to `roms/recordings`
+   - **Disable Hotkey**  
+     Closes the daemon running in the background
+
+2. Press **Start** to exit.
+
+3. While the daemon is running in the background, press:
+   - **Select + R1** (rg34xx)
+   - **Right Thumbstick + Plus Button** (rgb10x)
+
+4. After capturing:
+   - Screenshots are collected automatically
+   - An **Animated PNG** is generated from the captured frames
+
 
 **Components:**
 - `main.lua` - Change UI to your liking using Font sizes & Color palette
