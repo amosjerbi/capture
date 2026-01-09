@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/demo.png" alt="demo" width="640"/>
+  <img src="/demo.png" alt="demo" width="480"/>
 </p>
 
 # Capture
