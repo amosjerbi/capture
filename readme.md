@@ -1,5 +1,8 @@
-<p align="center">
+<p align="left">
   <img src="/demo.png" alt="demo" width="320"/>
+</p>
+<p align="right">
+  <img src="/pico.png" alt="demo" width="320"/>
 </p>
 
 # Capture
